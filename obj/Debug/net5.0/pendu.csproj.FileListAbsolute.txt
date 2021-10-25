@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\pendu.exe
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\pendu.deps.json
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\pendu.runtimeconfig.json
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\pendu.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\pendu.dll
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\ref\pendu.dll
+C:\Users\kevin\Desktop\pendu\bin\Debug\net5.0\pendu.pdb
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.AssemblyInfo.cs
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.dll
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\ref\pendu.dll
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.pdb
+C:\Users\kevin\Desktop\pendu\obj\Debug\net5.0\pendu.genruntimeconfig.cache
